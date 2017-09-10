@@ -5,7 +5,7 @@ defmodule TestModule do
   """
 end
 
-defmodule MapHelpersTest do
+defmodule Map.HelpersTest do
   @moduledoc false
   use ExUnit.Case
   doctest Map.Helpers
